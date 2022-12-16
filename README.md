@@ -6,7 +6,7 @@
 
 > Project Status: ✅ (Concluded)
 
-> Live Code Preview. GitHub Pages: https://preedroos.github.io/alura-midi
+> [Live Code Preview](https://preedroos.github.io/alura-midi)
 
 <br />
 
